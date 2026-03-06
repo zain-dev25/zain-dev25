@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zain-dev25/zain-dev25/blob/main/zain-banner.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/zain-dev25/zain-dev25/blob/main/zain-banner-3482x1024.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm ZAIN-UL-ABEDIN!</h1>
