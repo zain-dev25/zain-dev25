@@ -4,6 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm ZAIN-UL-ABEDIN!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zain-dev25&show_icons=true&locale=en&theme=dark&count_private=true&hide_border=true" alt="zain-dev25's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zain-dev25&locale=en&theme=dark&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=zain-dev25&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zain-dev25&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/zain-dev25" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @zain-dev25" /></a>
+</p>
+
 <h3 align="center">Passionate MERN Stack Developer , and React Native Developer, But my journey doesn't end here. My vision is to redefine the IT industry.</h3>
 
 <h3 align="left">More About Me:</h3>
@@ -60,13 +70,3 @@
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zain-dev25&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="zain-dev25's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zain-dev25&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=zain-dev25&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zain-dev25&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
